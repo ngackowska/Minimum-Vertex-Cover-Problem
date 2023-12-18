@@ -1,0 +1,18 @@
+{
+    "aproksymacyjny": [
+        0,
+        3,
+        1,
+        2
+    ],
+    "brute_force": [
+        0,
+        1,
+        2
+    ],
+    "genetyczny": [
+        0,
+        1,
+        4
+    ]
+}
